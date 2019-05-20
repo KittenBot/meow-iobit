@@ -1,0 +1,20 @@
+{
+    "target": "arcade",
+    "targetVersion": "0.11.17",
+    "name": "iobit",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "fac61e4e-811d-4dcd-6c2e-881cd0fc56b4",
+    "recentUse": 1558338455,
+    "modificationTime": 1558338455,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "meow-iobit",
+    "githubCurrent": false,
+    "saveId": null
+}

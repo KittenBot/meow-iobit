@@ -1,0 +1,16 @@
+{
+    "name": "iobit",
+    "version": "0.1.0",
+    "description": "Extension for Meowbit x IOBIT",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "edge-connector": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
